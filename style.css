@@ -1,0 +1,33 @@
+span{
+    color: orange;
+
+}
+.box{
+    color: orange;
+}
+button{
+    background-color: orange;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+    
+}
+h1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    background-color: rgb(255, 85, 0);
+}
+.b{
+    gap: 20px;
+}
